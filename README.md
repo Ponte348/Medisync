@@ -1,6 +1,7 @@
 # IES_Project_103
 
 Repository for the IES course project.
+Final grade: 18.2/20
 
 | Student         | Roles         | Nmec   | Effort |
 | --------------- | ------------- | ------ | ------ |
